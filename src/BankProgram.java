@@ -25,8 +25,12 @@ public class BankProgram {
                 case 2 -> balance += deposit();
                 case 3 -> balance -= withdraw(balance);
                 case 4 -> isRunning = false;
+                default -> System.out.println("Enter valid choice");
             }
         }
+        System.out.println("-------------------------");
+        System.out.println("Thank you for using Bank!");
+        System.out.println("-------------------------");
         sc.close();
     }
     static void showBalance(double balance){
