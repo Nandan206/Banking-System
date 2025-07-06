@@ -71,4 +71,4 @@ Enter your choice:
 🙋‍♂️ Author
 Nandan S
 
-🔗 GitHub: @Nandan206
+🔗 GitHub: https://github.com/Nandan206
