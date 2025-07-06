@@ -57,14 +57,14 @@ Run BankProgram.java from the editor
 ```
 
 🖼️ Sample Output
-***************
+---------------
 Welcome to Bank
-***************
+---------------
 1. Show Balance
 2. Deposit
 3. Withdraw
 4. Exit
-***************
+---------------
 Enter your choice:
 
 
